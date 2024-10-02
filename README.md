@@ -3,16 +3,21 @@ This repository contains the implementation of a Deep Learning-based cropland se
 
 
 How to Use:
+
 Composite Generation:
+
 Open the Google Earth Engine script at this link:
 https://code.earthengine.google.com
+
 and modify the region of interest and time period based on your study area.
+
 Generate the composite image using the provided script. Output imagery will be saved as a GeoTIFF in your designated GEE folder.
 Running the Notebook:
 
 Download the provided Jupyter notebook: CropClass_CompareGEEcomposite_T15SXU_Github.ipynb.
 Install necessary dependencies if not already installed in file requirements.txt by code:
 pip install -r requirements.txt
+
 Load the Sentinel-2 composite image generated from GEE into the notebook, and configure the file paths for training data.
 Deep Learning Model:
 
