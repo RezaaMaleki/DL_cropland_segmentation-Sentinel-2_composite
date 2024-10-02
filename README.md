@@ -5,7 +5,7 @@ This repository contains the implementation of a Deep Learning-based cropland se
 How to Use:
 Composite Generation:
 Open the Google Earth Engine script at this link:
-https://code.earthengine.google.com/8409246a2fb4d00c6a796b106f5fd885
+https://code.earthengine.google.com
 and modify the region of interest and time period based on your study area.
 Generate the composite image using the provided script. Output imagery will be saved as a GeoTIFF in your designated GEE folder.
 Running the Notebook:
