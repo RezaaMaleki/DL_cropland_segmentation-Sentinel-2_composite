@@ -1,4 +1,4 @@
-# Enhancing Satellite Image Composite using Temporal Proximity for Deep Learning-based Cropland Segmentation
+# Enhancing Satellite Image Composite using Temporal Proximity Weighting for Deep Learning-based Cropland Segmentation
 This repository contains the implementation of a Deep Learning-based cropland segmentation task utilizing Sentinel-2 time series composite imagery. The composite images are generated using a novel method that integrates cloud-shadow masking and temporal proximity, specifically designed to enhance the accuracy of cropland segmentation across multiple regions. The approach is tailored to maintain phenological continuity and ensure robust segmentation performance under varying environmental conditions. The code is developed in conjunction with a research article that evaluates the effectiveness of different compositing methods, including the proposed technique, in diverse agricultural settings.
 
 
